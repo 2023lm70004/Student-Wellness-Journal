@@ -71,8 +71,7 @@ Mental health challenges among students in India are on the rise due to academic
 
 ## 📌 GitHub Project Board
 
-We are using the **"Team Planning"** template to track development.  
-[🔗 Link to GitHub Project Board](https://github.com/your-org/your-repo/projects)
+[🔗 Link to GitHub Project Board](https://github.com/2023lm70004/Student-Wellness-Journal.git)
 
 ---
 
