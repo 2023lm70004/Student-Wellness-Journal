@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "How to Read the Charts";
+}
+
+<div class="container mt-5">
+    <h2>📊 How to Read Your Mood Charts</h2>
+    <p>
+        Your journal shows different visualizations to help you track and understand your emotions.
+    </p>
+
+    <h4>Mood Trends (Last 30 Days)</h4>
+    <ul>
+        <li>Each bar represents a day with the count of moods logged.</li>
+        <li>Colors: 😊 Happy, 😐 Neutral, 😔 Sad, 😡 Angry, 😟 Anxious, 😌 Calm</li>
+        <li>The black line shows your average mood score (Happy = 5, Calm = 4, Neutral = 3, Anxious = 2, Sad = 1, Angry = 0).</li>
+    </ul>
+
+    <h4>Donut Chart (Overall Mood)</h4>
+    <ul>
+        <li>Shows the percentage of each mood across the selected period.</li>
+        <li>Helps you quickly see which moods dominate.</li>
+    </ul>
+
+    <h4>Tips</h4>
+    <ul>
+        <li>Look for patterns (e.g., weekends vs weekdays).</li>
+        <li>Notice improvements or declines over time.</li>
+        <li>Use this information to build healthier habits.</li>
+    </ul>
+
+    <a class="btn btn-primary mt-3" asp-controller="Journal" asp-action="Index">← Back to Journal</a>
+</div>

@@ -144,9 +144,26 @@ namespace Student_Wellness_Journal_App.Controllers
         {
             var user = await _userManager.GetUserAsync(User);
             var from = DateTime.UtcNow.Date.AddDays(-days);
-            var data = await _db.JournalEntries
+
+            // Step 1: Fetch entries async
+            var entries = await _db.JournalEntries
                 .Where(e => e.UserId == user.Id && e.Timestamp >= from)
-                .GroupBy(e => e.Timestamp.Date)
+                .ToListAsync();   // ✅ async
+
+            // Step 2: Mood scoring weights
+            var moodScores = new Dictionary<Mood, int>
+    {
+        { Mood.Happy, 5 },
+        { Mood.Calm, 4 },
+        { Mood.Neutral, 3 },
+        { Mood.Anxious, 2 },
+        { Mood.Sad, 1 },
+        { Mood.Angry, 0 }
+    };
+
+            // Step 3: Group in memory + calculate counts & average score
+            var data = entries
+                .GroupBy(e => e.Timestamp.ToLocalTime().Date)
                 .Select(g => new
                 {
                     Date = g.Key,
@@ -155,13 +172,24 @@ namespace Student_Wellness_Journal_App.Controllers
                     CountSad = g.Count(e => e.Mood == Mood.Sad),
                     CountAngry = g.Count(e => e.Mood == Mood.Angry),
                     CountAnxious = g.Count(e => e.Mood == Mood.Anxious),
-                    CountCalm = g.Count(e => e.Mood == Mood.Calm)
+                    CountCalm = g.Count(e => e.Mood == Mood.Calm),
+                    AverageScore = g.Average(e => moodScores[e.Mood])  // ✅ overall daily mood score
                 })
                 .OrderBy(x => x.Date)
-                .ToListAsync();
+                .ToList();
 
             return Ok(data);
         }
+
+
+        [HttpGet]
+        public async Task<IActionResult> Guide()
+        {
+            // Simulate async (in case you add data fetching later)
+            await Task.CompletedTask;
+            return View();
+        }
+
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
