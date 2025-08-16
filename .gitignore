@@ -1,6 +1,6 @@
 # Ignore development settings
 **/appsettings.Development.json
-
+/OpenAPI integration doc with chatgpt.docx
 # Build outputs
 bin/
 obj/
