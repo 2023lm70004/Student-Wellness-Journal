@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Student Wellness Journal App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31fc3d633b0ad0cad9baf55c6b55e789d0539b56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a911fb78b6938c25c40afb945f0a4f4b6f822a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Student Wellness Journal App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Student Wellness Journal App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

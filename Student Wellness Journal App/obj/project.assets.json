@@ -8184,11 +8184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Student Wellness Journal App.csproj",
+      "projectUniqueName": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Student Wellness Journal App.csproj",
       "projectName": "Student Wellness Journal App",
-      "projectPath": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Student Wellness Journal App.csproj",
+      "projectPath": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Student Wellness Journal App.csproj",
       "packagesPath": "C:\\Users\\Devjeet Chowdhury\\.nuget\\packages\\",
-      "outputPath": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\obj\\",
+      "outputPath": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

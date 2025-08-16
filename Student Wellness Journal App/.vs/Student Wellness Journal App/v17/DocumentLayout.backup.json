@@ -1,72 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\",
+  "WorkspaceRootPath": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net9.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net9.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\views\\journal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\views\\journal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:views\\journal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\controllers\\journalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\controllers\\journalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:controllers\\journalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\views\\journal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\views\\journal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:views\\journal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\StudentWellnessJournal_starter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal\\student wellness journal app\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|d:\\mindtree\\oms\\oms\\net\\practice\\student wellness journal clean\\student wellness journal app\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{0A69AE5C-9292-4800-91DF-A13087FEC930}|Student Wellness Journal App.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -83,37 +83,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.json",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.json",
               "RelativeDocumentMoniker": "bin\\Debug\\net9.0\\appsettings.json",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.json",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.json",
               "RelativeToolTip": "bin\\Debug\\net9.0\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T18:43:30.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T18:43:30.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.Development.json",
               "RelativeDocumentMoniker": "bin\\Debug\\net9.0\\appsettings.Development.json",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.Development.json",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\bin\\Debug\\net9.0\\appsettings.Development.json",
               "RelativeToolTip": "bin\\Debug\\net9.0\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T18:42:57.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T18:42:57.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\appsettings.Development.json",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-16T17:34:53.718Z",
               "EditorCaption": ""
@@ -122,166 +120,154 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Program.cs",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Program.cs",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T03:34:28.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T03:34:28.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T04:36:21.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T04:36:21.326Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T04:35:33.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T04:35:33.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Journal\\Index.cshtml",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Journal\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Journal\\Index.cshtml",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Journal\\Index.cshtml",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Journal\\Index.cshtml",
               "RelativeToolTip": "Views\\Journal\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T04:04:29.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T04:04:29.034Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Data\\ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Data\\ApplicationDBContext.cs",
               "RelativeToolTip": "Data\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T03:46:04.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T03:46:04.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\appsettings.json",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\appsettings.json",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-09T04:10:15.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T04:10:15.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-16T15:12:41.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T15:12:41.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "JournalController.cs",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Controllers\\JournalController.cs",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Controllers\\JournalController.cs",
               "RelativeDocumentMoniker": "Controllers\\JournalController.cs",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Controllers\\JournalController.cs",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Controllers\\JournalController.cs",
               "RelativeToolTip": "Controllers\\JournalController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwFQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T04:01:42.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T04:01:42.188Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ForgotPassword.cshtml.cs",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAQwDUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:14:58.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T15:14:58.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-16T15:45:08.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T15:45:08.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "JournalEntry.cs",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Models\\JournalEntry.cs",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Models\\JournalEntry.cs",
               "RelativeDocumentMoniker": "Models\\JournalEntry.cs",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Models\\JournalEntry.cs",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Models\\JournalEntry.cs",
               "RelativeToolTip": "Models\\JournalEntry.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T03:43:16.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T03:43:16.865Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Journal\\Create.cshtml",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Journal\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Journal\\Create.cshtml",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\Views\\Journal\\Create.cshtml",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\Views\\Journal\\Create.cshtml",
               "RelativeToolTip": "Views\\Journal\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T04:06:19.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T04:06:19.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\StudentWellnessJournal_starter\\Program.cs",
-              "RelativeDocumentMoniker": "..\\StudentWellnessJournal_starter\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Student Wellness Journal\\StudentWellnessJournal_starter\\Program.cs",
               "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\StudentWellnessJournal_starter\\Program.cs",
-              "RelativeToolTip": "..\\StudentWellnessJournal_starter\\Program.cs",
+              "RelativeToolTip": "..\\..\\Student Wellness Journal\\StudentWellnessJournal_starter\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T03:35:29.763Z"
             },
@@ -289,14 +275,13 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": ".dockerignore",
-              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\.dockerignore",
+              "DocumentMoniker": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal\\Student Wellness Journal App\\.dockerignore",
+              "ToolTip": "D:\\mindtree\\oms\\oms\\net\\practice\\Student Wellness Journal Clean\\Student Wellness Journal App\\.dockerignore",
               "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-09T03:32:54.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T03:32:54.278Z"
             }
           ]
         }
