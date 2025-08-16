@@ -1,0 +1,50 @@
+﻿@model Student_Wellness_Journal_App.Models.JournalEntry
+
+@if (Model == null)
+{
+    <p>not found</p>
+}
+
+else
+{
+    <form asp-action="Edit" method="post">
+        <div class="form-group">
+            <label>Mood</label>
+            <select asp-for="Mood" class="form-control">
+                <option value="Happy">😊 Happy</option>
+                <option value="Neutral">😐 Neutral</option>
+                <option value="Sad">😢 Sad</option>
+                <option value="Angry">😠 Angry</option>
+                <option value="Anxious">😰 Anxious</option>
+                <option value="Calm">😌 Calm</option>
+            </select>
+            <span asp-validation-for="Mood" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Journal</label>
+            <textarea asp-for="Content"
+            class="form-control"
+            rows="6"
+            maxlength="2000"
+            oninput="updateCounter(this)">
+            </textarea>
+            <small id="charCount" class="form-text text-muted">
+                2000 characters remaining
+            </small>
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+
+        <button class="btn btn-primary">Save</button>
+    </form>
+}
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function updateCounter(textarea) {
+            const maxLength = 2000;
+            const remaining = maxLength - textarea.value.length;
+            document.getElementById("charCount").innerText = `${remaining} characters remaining`;
+        }
+    </script>
+}

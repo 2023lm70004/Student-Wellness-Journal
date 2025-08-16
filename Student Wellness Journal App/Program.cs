@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 using Student_Wellness_Journal_App.Data;
 using Student_Wellness_Journal_App.Models;
 
@@ -26,11 +27,18 @@ namespace Student_Wellness_Journal_App
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
+
+            //Register HttpClientFactory
+            builder.Services.AddHttpClient();
             // MVC + Razor Pages
             builder.Services.AddControllersWithViews();
             builder.Services.AddRazorPages();
             builder.Services.AddAuthorization();
 
+            builder.Configuration
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddJsonFile("appsettings.Development.json", optional: true, reloadOnChange: true)
+    .AddEnvironmentVariables();
             var app = builder.Build();
 
             if (!app.Environment.IsDevelopment())

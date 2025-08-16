@@ -6,11 +6,11 @@
 <ul class="navbar-nav">
     @if (SignInManager.IsSignedIn(User))
     {
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
-                Hello @UserManager.GetUserName(User)!
+      <!-- <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Journal" asp-action="Index">
+                Hello @* @UserManager.GetUserName(User)! *@
             </a>
-        </li>
+        </li>-->
         <li class="nav-item">
             <form asp-area="Identity" asp-page="/Account/Logout" method="post" id="logoutForm" class="form-inline">
                 <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>

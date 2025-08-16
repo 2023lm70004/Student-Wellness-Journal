@@ -1,0 +1,6 @@
+# Ignore development settings
+**/appsettings.Development.json
+
+# Build outputs
+bin/
+obj/
